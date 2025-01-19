@@ -33,7 +33,7 @@ Use RFM or Recency, Frequency and Monetary model to categorize customers for cre
                 GlobalSuperstore[Recency] <=700, 2,  <br>
                 GlobalSuperstore[Recency] >700, 1    <br>
               
-   Similar approach was adopted to score frequency and monetary values. However, in these cases the higher the value, the higher the score. <br>
+    Similar approach was adopted to score frequency and monetary values. However, in these cases the higher the value, the higher the score. <br>
    
 7.	#### Categorizing Customers –
    
@@ -50,4 +50,6 @@ Use RFM or Recency, Frequency and Monetary model to categorize customers for cre
 #### Note: This is not a standard categorization. It is totally at your discretion.
 
 ### Dashboard:
+
+https://github.com/SurabhiBajaj98/Customer_Categorization_usingBI/blob/main/Dashboard_RFM.PNG
 
