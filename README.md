@@ -4,7 +4,7 @@
 Use RFM or Recency, Frequency and Monetary model to categorize customers for creating an effective marketing strategy
 
 ### Dataset Used:
-
+<a href= https://github.com/SurabhiBajaj98/Customer_Categorization_usingBI/blob/main/Global%20Superstore%20Data.xlsx> Global Superstore </a>
 
 ### Visualization Goals:
 1.	Based on RFM scores, exercise judgement and creativity to create different customer segments
@@ -17,9 +17,11 @@ Use RFM or Recency, Frequency and Monetary model to categorize customers for cre
     a) Created a new table grouped by Customer ID <br>
   	b) Calculated the most recent order date/last transaction date for each customer <br>
     c) Recency = Difference between today’s date and the last transaction date
-5.	#### Frequency - A simple summarization of customer ID by the number of orders placed by each of them (counting rows for each ID from the raw data) 
-6.	#### Monetary - A simple summarization of customer ID by total sales amount
-7.	#### Assigning RFM Scores – Data distribution, individual judgement and executive intervention is required to assign scores. <br>
+5.	#### Frequency - <br>
+    Summarization of customer ID by the number of orders placed by each of them (counting rows for each ID from the raw data) 
+7.	#### Monetary - <br>
+    Summarization of customer ID by total sales amount
+9.	#### Assigning RFM Scores – Data distribution, individual judgement and executive intervention is required to assign scores. <br>
 
     For e.g. In case of recency, the lesser the difference the better as it indicates last purchase was made very recently. Here, the data was majorly concentrated around 300-350 days.
   	
