@@ -51,5 +51,6 @@ Use RFM or Recency, Frequency and Monetary model to categorize customers for cre
 
 ### Dashboard:
 
-https://github.com/SurabhiBajaj98/Customer_Categorization_usingBI/blob/main/Dashboard_RFM.PNG
+![Dashboard_RFM](https://github.com/user-attachments/assets/58bd628a-4455-40d8-bcc6-487b706419ec)
+
 
