@@ -23,9 +23,9 @@ Use RFM or Recency, Frequency and Monetary model to categorize customers for cre
     Summarization of customer ID by total sales amount
 9.	#### Assigning RFM Scores – Data distribution, individual judgement and executive intervention is required to assign scores. <br>
 
-    For e.g. In case of recency, the lesser the difference the better as it indicates last purchase was made very recently. Here, the data was majorly concentrated around 300-350 days.
+    For e.g. In case of recency, the lesser the difference the better. It indicates last purchase was made very recently. Here, the data is majorly concentrated around 300-350 days.
   	
-    Thus Recency score was as follows:
+    Thus Recency score is as follows:
 
                 GlobalSuperstore[Recency] <=400 , 5, 
                 GlobalSuperstore[Recency] <=500 , 4, 
@@ -33,7 +33,7 @@ Use RFM or Recency, Frequency and Monetary model to categorize customers for cre
                 GlobalSuperstore[Recency] <=700, 2,  
                 GlobalSuperstore[Recency] >700, 1    
               
-    Similar approach was adopted to score frequency and monetary values. However, in these cases the higher the value, the higher the score. <br>
+    Similar approach is adopted to score frequency and monetary values. However, in these cases the higher the value, the higher the score. <br>
    
 7.	#### Categorizing Customers –
    
