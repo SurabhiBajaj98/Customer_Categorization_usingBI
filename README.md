@@ -27,11 +27,11 @@ Use RFM or Recency, Frequency and Monetary model to categorize customers for cre
   	
     Thus Recency score was as follows:
 
-                GlobalSuperstore[Recency] <=400 , 5, <br>
-                GlobalSuperstore[Recency] <=500 , 4, <br>
-                GlobalSuperstore[Recency] <=600 , 3, <br>
-                GlobalSuperstore[Recency] <=700, 2,  <br>
-                GlobalSuperstore[Recency] >700, 1    <br>
+                GlobalSuperstore[Recency] <=400 , 5, 
+                GlobalSuperstore[Recency] <=500 , 4, 
+                GlobalSuperstore[Recency] <=600 , 3, 
+                GlobalSuperstore[Recency] <=700, 2,  
+                GlobalSuperstore[Recency] >700, 1    
               
     Similar approach was adopted to score frequency and monetary values. However, in these cases the higher the value, the higher the score. <br>
    
